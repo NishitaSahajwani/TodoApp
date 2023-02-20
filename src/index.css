@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Plus:ital@1&family=Mukta&display=swap');
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Mukta', sans-serif;
+}
+body{
+  background-color: #E5E0FF;
+  /* color: white; */
+}
